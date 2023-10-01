@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-recipes-list',
-  templateUrl: './recipes-list.component.html',
-  styleUrls: ['./recipes-list.component.css']
+  templateUrl: './recipe-list.component.html',
+  styleUrls: ['./recipe-list.component.css']
 })
 export class RecipesListComponent {
 
